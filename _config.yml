@@ -81,7 +81,7 @@ analytics:
 author:
   name             : "Shu Xie"
   avatar           : "Profile_pic.png"
-  location         : "China"
+  bio              : "Evolutionary ecology"
   employer         : "University of Groningen"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=kKNJFoAAAAAJ"
@@ -100,7 +100,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/shu-xie-810775306/"
+  linkedin         : 
   orcid            : "https://orcid.org/0000-0001-9594-946X"
   pinterest        :
   soundcloud       :
