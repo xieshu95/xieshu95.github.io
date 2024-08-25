@@ -14,7 +14,7 @@ redirect_from:
 
 I am an evolutionary biologist interested in biodiversity dynamics on macro eco-evolutionary scales. I have recently completed  my PhD at the University of Groningen, under the supervision of Prof. [Rampal Etienne](https://www.rug.nl/staff/r.s.etienne/) and Dr. [Luis Valente](https://www.luis-valente.com/).
 
-I am passionate about using theoretical models to unravel the complexities of ecological and evolutionary processes,and contribute to our understanding of the mechanisms driving the incredible diversity. 
+I am passionate about using theoretical models to unravel the complexities of ecological and evolutionary processes,and contribute to our understanding of the mechanisms driving the incredible diversity. I am currently working on a trait-dependent island biogeography framework and applying this framework to empirical data (e.g., New Zealand birds),which may help to explain the biodiversity patterns and trait evolution on islands. 
 
 
 
