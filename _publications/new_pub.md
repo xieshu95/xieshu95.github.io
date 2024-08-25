@@ -1,5 +1,4 @@
 ---
-layout: archive
 author_profile: true
 collection: publications
 ---
