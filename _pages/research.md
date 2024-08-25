@@ -10,4 +10,4 @@ My overarching research interests revolve around community ecology. My early res
 
 Species traits are widely hypothesized to be important drivers shaping diversification rates and biodiversity patterns, but have been neglected in the current island biogeography models. To fill in this gap, we provide a new framework to investigate how species traits affect macroevolutionary rates and biodiversity on islands.
 
-![Illustration of combining vision and language modalities](/images/model.png){ width: 300px; }
+![Illustration of combining vision and language modalities](/images/model.png){width="300px"}
