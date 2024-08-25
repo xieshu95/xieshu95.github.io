@@ -1,6 +1,5 @@
 ---
-author_profile: true
-collection: publications
+title: "Publications"
 ---
 
 **Xie, S.**, Valente, L., & Etienne, R. S. (2023). Can we ignore trait-dependent colonization and diversification in island biogeography? Evolution, 77(3), 670–681. [https://doi.org/10.1093/EVOLUT/QPAD006](https://doi.org/10.1093/EVOLUT/QPAD006).  **Xie, S.**, Valente, L., & Etienne, R. S. (2023). Identifying summary statistics for approximate Bayesian computation in a phylogenetic island biogeography model. (BioRxiv). [https://doi.org/10.1101/2023.10.13.562305](https://doi.org/10.1101/2023.10.13.562305).  
