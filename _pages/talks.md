@@ -3,11 +3,9 @@ layout: archive
 title: "Approximate Bayesian Computation in island biogeography models"
 permalink: /talks/
 author_profile: true
-type: "Talk"
 date: 2022-07-19
 location: "Reading, United Kingdom"
 ---
-
 
 📆 2022-07-19
 🏢 Reading University, United Kingdom
