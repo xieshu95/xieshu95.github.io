@@ -2,7 +2,7 @@
 layout: archive
 author_profile: true
 collection: publications
-permalink: /publication/publications
+permalink: /publication/new_pub
 author_profile: true
 ---
 
