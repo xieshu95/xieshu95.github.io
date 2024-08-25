@@ -7,6 +7,8 @@ date: 2022-07-19
 location: "Reading, United Kingdom"
 ---
 
+![Illustration of combining vision and language modalities]
+
 📆 2022-07-19
 🏢 Reading University, United Kingdom
 
