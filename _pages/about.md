@@ -12,7 +12,7 @@ redirect_from:
 
 ![Illustration of combining vision and language modalities](/images/island.png){: .align-right width="300px"}
 
-I am an evolutionary biologist interested in biodiversity dynamics on macro eco-evolutionary scales. I have recently completed  my PhD at the University of Groningen, under the supervision of Prof.[Rampal Etienne](https://www.rug.nl/staff/r.s.etienne/) and Dr.[Luis Valente](https://www.luis-valente.com/).
+I am an evolutionary biologist interested in biodiversity dynamics on macro eco-evolutionary scales. I have recently completed  my PhD at the University of Groningen, under the supervision of Prof. [Rampal Etienne](https://www.rug.nl/staff/r.s.etienne/) and Dr. [Luis Valente](https://www.luis-valente.com/).
 
 I am passionate about using theoretical models to unravel the complexities of ecological and evolutionary processes,and contribute to our understanding of the mechanisms driving the incredible diversity. 
 
