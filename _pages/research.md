@@ -29,22 +29,25 @@ The development and implementation of the trait-based island biogeography framew
 *Figure 3. Distribution of flightlessness across native bird clades of New Zealand. The plot shows the estimated times of colonization of the different lineages of native land birds of New Zealand, based on time calibrated phylogenies. Circles to the right of each lineage indicate the flight states for the species in that lineage.*
 
 
+
 # Bayesian inference in diversification models
 
 A popular statistical inference framework is likelihood-based estimation. However, likelihood-based methods are not always available for complex models because of the computational intractability of the likelihood. A promising alternative is Approximate Bayesian Computation (ABC), which is a simulation-based and likelihood-free approach. Here, we advance the use of Bayesian inference methods (MCMC and ABC) in both island biogeography and trait-dependent diversification models. For these models, likelihood-based inference is possible, which gives us the opportunity to assess the performance of ABC and MCMC inference method, and select powerful summary statistics.
 
 
-![Illustration of combining vision and language modalities](/images/ABC.png){: .align-center width="400px"}
+![Illustration of combining vision and language modalities](/images/ABC.png){: .align-center width="700px"}
 
 *Figure 4. Illustration of the ABC-SMC algorithm.*
+
 
 
 # response of SOC and microbial community to climate and land use change (meta-analysis)
 
 I am also fascinated by soil science, especially the dynamics of soil organic matter and microbial biomass. We applied global meta-analysis to understand the impact of grassland conversion to cropland on soil carbon losses, as well as the response of SOC and soil microbial biomass to elevated CO2 (eCO2). Through these studies, we emphasized the importance of incorporating environmental factors into ecosystem models, to accurately predict future global climate change effects and their impact on ecosystem functions.
 
-![Illustration of combining vision and language modalities](/images/meta.png){: .align-center width="400px"}
+![Illustration of combining vision and language modalities](/images/meta.png){: .align-center width="500px"}
 
+*Figure 5. Effects of eCO2 on soil microbial biomass.*
 
 
 
