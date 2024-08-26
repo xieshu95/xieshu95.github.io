@@ -41,7 +41,7 @@ A popular statistical inference framework is likelihood-based estimation. Howeve
 
 
 
-# response of SOC and microbial community to climate and land use change (meta-analysis)
+# Response of SOC and microbial community to climate and land use change (meta-analysis)
 
 I am also fascinated by soil science, especially the dynamics of soil organic matter and microbial biomass. We applied global meta-analysis to understand the impact of grassland conversion to cropland on soil carbon losses, as well as the response of SOC and soil microbial biomass to elevated CO2 (eCO2). Through these studies, we emphasized the importance of incorporating environmental factors into ecosystem models, to accurately predict future global climate change effects and their impact on ecosystem functions.
 
