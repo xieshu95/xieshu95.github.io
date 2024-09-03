@@ -28,7 +28,7 @@ The development and implementation of the trait-based island biogeography framew
 
 *Figure 3. Distribution of flightlessness across native bird clades of New Zealand. The plot shows the estimated times of colonization of the different lineages of native land birds of New Zealand, based on time calibrated phylogenies. Circles to the right of each lineage indicate the flight states for the species in that lineage.*
 
-![Illustration of combining vision and language modalities](/images/finches.png){: .align-center width="400px"}
+![Illustration of combining vision and language modalities](/images/finches.png){: .align-center width="600px"}
 
 *Figure 4. What are the major functional traits that shape the dramatic biodiversity  differences between Darwin's finches and other bird clades?*
 
