@@ -28,6 +28,9 @@ The development and implementation of the trait-based island biogeography framew
 
 *Figure 3. Distribution of flightlessness across native bird clades of New Zealand. The plot shows the estimated times of colonization of the different lineages of native land birds of New Zealand, based on time calibrated phylogenies. Circles to the right of each lineage indicate the flight states for the species in that lineage.*
 
+![Illustration of combining vision and language modalities](/images/finches.png){: .align-center width="400px"}
+
+*Figure 4. What are the major functional traits that shape the dramatic biodiversity  differences between Darwin's finches and other bird clades?*
 
 
 # Bayesian inference in diversification models
@@ -37,7 +40,7 @@ A popular statistical inference framework is likelihood-based estimation. Howeve
 
 ![Illustration of combining vision and language modalities](/images/ABC.png){: .align-center width="700px"}
 
-*Figure 4. Illustration of the ABC-SMC algorithm.*
+*Figure 5. Illustration of the ABC-SMC algorithm.θ1, θ2,…, θn indicate n particles sampled from the prior distribution, and SS(θ) is the summary statistic of the particle (a single simulation). ε is the distance threshold for each iteration, which decreases with each iteration.*
 
 
 
@@ -47,7 +50,12 @@ I am also fascinated by soil science, especially the dynamics of soil organic ma
 
 ![Illustration of combining vision and language modalities](/images/meta.png){: .align-center width="500px"}
 
-*Figure 5. Effects of eCO2 on soil microbial biomass.*
+*Figure 6. Effects of eCO2 on soil microbial biomass.*
 
 
+# Mater's projects:Grass cultivation in vineyards
+Cover cropping can enrich near-surface biodiversity and is beneficial to the stability of temperature and moisture conditions in the orchard. Here, we investigated the impact of grass cultivation on soil physicochemical properties (e.g., soil aggregate stability, soil nutrients) and fruit quality in vineyards. This experimental study led me to a better understanding of how interspecific competition and coexistence between species drive biodiversity and community stability in ecosystems. 
+
+# Mater's projects:Stability of soil aggregates
+I researched the formation and stability of soil aggregates as a mini project, as they are essential for maintaining soil structure and fertility. We aimed to explore how different types of organic matter additions (e.g., biochar, and cow manure) and different plant species growing affect the structure and stability of soil aggregates.
 
